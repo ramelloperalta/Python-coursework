@@ -4,7 +4,7 @@ import itertools as it
 import collections as co
 import numpy as np
 import string
-"""
+
 def ryerson_letter_grade(pct):
     if pct >= 90:
         return "A+"
@@ -841,7 +841,6 @@ def aliquot_sequence(n, giveup = 100):
             break
     return aliquotnumbers
 
-"""
 lattices = {}
 def lattice_paths(x, y, tabu):
     if x == 0 or y == 0:
