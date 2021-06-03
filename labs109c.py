@@ -1,5 +1,5 @@
-# As an example, here is an implementation of
-# the first problem "Ryerson Letter Grade":
+# Problem sets from CCPS109
+
 import itertools as it
 import collections as co
 import numpy as np
